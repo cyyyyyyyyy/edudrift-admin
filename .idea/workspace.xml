@@ -8,22 +8,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/views/basic.jsx" line="56" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="783c92a0-a3b3-4211-9ca5-2e8697146b01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/EdMessage/EdMessage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/EdMessage/index.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/main-route.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/main-route.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/fetch.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/basic.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/basic.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/client-edit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/client-edit.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/competition.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/competition.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/institutional.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/institutional.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/render-from.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/render-from.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/user-accounts-group-add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/user-accounts-group-add.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/user-accounts-group-edit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/user-accounts-group-edit.jsx" afterDir="false" />
-    </list>
+    <list default="true" id="783c92a0-a3b3-4211-9ca5-2e8697146b01" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -59,11 +44,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/utils/fetch.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/views/user-accounts-edit.jsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -243,27 +240,7 @@
               <item name="edudrift-admin" type="b2602c69:ProjectViewProjectNode" />
               <item name="edudrift-admin" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="EdInput" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edudrift-admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edudrift-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="EdMessage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edudrift-admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edudrift-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="routes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="edudrift-admin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="edudrift-admin" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -352,15 +329,16 @@
       <workItem from="1557720996206" duration="7621000" />
       <workItem from="1558022518515" duration="2714000" />
       <workItem from="1558145298744" duration="601000" />
-      <workItem from="1558157964984" duration="7934000" />
+      <workItem from="1558157964984" duration="8113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171534000" />
+    <option name="totallyTimeSpent" value="171713000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49873737" visible="true" weight="0.23742028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -566,16 +544,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/tokenHelper.js">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/views/user-accounts-edit.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/user-accounts-add.jsx">
       <provider selected="true" editor-type-id="text-editor">
@@ -784,6 +752,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/user-accounts-edit.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
